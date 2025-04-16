@@ -1,26 +1,27 @@
 ### Hi, I’m @mhamsa  
-**.NET Developer | Backend Specialist | Software Engineer**
+**Full Stack Developer | GoLang Enthusiast | Cloud-Native Builder**
+
 
 **I’m interested in**  
-- Building robust backend systems with .NET Core  
-- Developing scalable RESTful APIs  
-- Cloud-native .NET applications on Azure  
-- Microservices architecture and containerization  
-- Software performance optimization and clean code practices  
+- Backend development with GoLang  
+- Full stack application development (Go + React/Next.js)  
+- Building scalable REST and gRPC APIs  
+- Cloud-native architecture and containerization (Docker, Kubernetes)  
+- Distributed systems and microservices  
 
 **I’m currently learning**  
-- Blazor for modern web UI development  
-- Azure DevOps and CI/CD pipelines  
-- Clean Architecture and Domain-Driven Design (DDD)  
-- gRPC & SignalR for real-time communication  
+- Advanced Go concurrency and performance tuning  
+- Clean Architecture & Domain-Driven Design  
+- CI/CD automation for Go applications  
+- Integrating Go with GraphQL and WebSockets  
 
 **I’m looking to collaborate on**  
-- Enterprise-grade .NET applications  
-- Open-source tools and libraries in C#  
-- Scalable and maintainable backend services  
+- GoLang-based backend projects  
+- Scalable full stack SaaS applications  
+- Open-source Go tools and libraries  
 
 **How to reach me**  
-- Email: creativecoder302@gmail.com*  
+- Email: creativecoder302@gmail.com
 
 **Fun fact**  
-I refactor code for fun—and sometimes just to relax after a long day! 😄
+I can spin up a scalable Go service faster than my browser can load Stack Overflow.
