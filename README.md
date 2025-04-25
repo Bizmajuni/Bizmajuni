@@ -1,27 +1,23 @@
-### Hi, I’m @mhamsa  
-**Full Stack Developer | GoLang Enthusiast | Cloud-Native Builder**
+### Hi, I’m @Bizma Juni  
+**Machine Learning Engineer | AI Enthusiast | Data-Driven Innovator**
 
+**Areas of Interest**  
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Computer Vision Applications  
+- Data Analysis & Visualization  
+- AI-Powered Solutions for Real-World Problems  
 
-**I’m interested in**  
-- Backend development with GoLang  
-- Full stack application development (Go + React/Next.js)  
-- Building scalable REST and gRPC APIs  
-- Cloud-native architecture and containerization (Docker, Kubernetes)  
-- Distributed systems and microservices  
+**Currently Learning**  
+- Transformer Architectures (BERT, GPT)  
+- MLOps and Model Deployment  
+- Reinforcement Learning  
+- Scalable ML on Cloud Platforms (AWS, GCP)  
 
-**I’m currently learning**  
-- Advanced Go concurrency and performance tuning  
-- Clean Architecture & Domain-Driven Design  
-- CI/CD automation for Go applications  
-- Integrating Go with GraphQL and WebSockets  
+**Looking to Collaborate On**  
+- Open-source ML & AI projects  
+- End-to-end ML pipelines  
+- Research-based machine learning innovations  
 
-**I’m looking to collaborate on**  
-- GoLang-based backend projects  
-- Scalable full stack SaaS applications  
-- Open-source Go tools and libraries  
-
-**How to reach me**  
+**Contact**  
 - Email: creativecoder302@gmail.com
-
-**Fun fact**  
-I can spin up a scalable Go service faster than my browser can load Stack Overflow.
